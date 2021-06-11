@@ -1,4 +1,4 @@
-
+[![Coverage Status](https://coveralls.io/repos/github/snoreoh/lab05/badge.svg?branch=master)](https://coveralls.io/github/snoreoh/lab05?branch=master)
 
 # Homework. Lab №05
 
